@@ -6,6 +6,8 @@ public class Test01 {
 		System.out.println("hello github服务器");
 		System.out.println("hell0");
 		System.out.println("hello local服务器");
+		System.out.println("hello github服务器aaaa");
+		
 		
 	}
 
